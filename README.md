@@ -40,3 +40,12 @@ Getting started: no edited file
    1. app\ui\dashboard\nav-links.tsx
    #### Active Links
    1. app\ui\dashboard\nav-links.tsx
+
+### Chapter 6 - Setting up Database
+   #### Pull from github
+   #### Create postgres database on vercel
+   #### Install vercel postgres 3rd party
+   1. package.json
+   1. package-lock.json
+   #### Add seeder script to populate dummy data
+   1. package.json
