@@ -34,3 +34,9 @@ Getting started: no edited file
    1. (try) app\dashboard\invoices\page.tsx
    #### Dashboard Layout
    1. app\dashboard\layout.tsx
+
+### Chapter 5 - Navigationg between Pages
+   #### Link Component
+   1. app\ui\dashboard\nav-links.tsx
+   #### Active Links
+   1. app\ui\dashboard\nav-links.tsx
