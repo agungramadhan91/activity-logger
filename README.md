@@ -27,3 +27,10 @@ Getting started: no edited file
    1. app\page.tsx
    1. (try) app\page.tsx
 
+### Chapter 4 - Creating Dashboard and Pages
+   #### Dashboard
+   1. app\dashboard\page.tsx
+   1. (try) app\dashboard\customers\page.tsx
+   1. (try) app\dashboard\invoices\page.tsx
+   #### Dashboard Layout
+   1. app\dashboard\layout.tsx
