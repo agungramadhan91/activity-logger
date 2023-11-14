@@ -49,3 +49,17 @@ Getting started: no edited file
    1. package-lock.json
    #### Add seeder script to populate dummy data
    1. package.json
+
+### Chapter 7 - Fetching Data
+   #### Fetching data for the dashboard overview page
+   1. app\dashboard\page.tsx
+   #### Fetching data for <RevenueChart/>
+   1. app\dashboard\page.tsx
+   1. app\ui\dashboard\revenue-chart.tsx
+   #### Fetching data for <LatestInvoices/>
+   1. app\dashboard\page.tsx
+   1. app\ui\dashboard\latest-invoices.tsx
+   #### Practice: Fetch data for the <Card> components
+   1. app\dashboard\page.tsx
+
+
