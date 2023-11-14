@@ -13,6 +13,17 @@ Getting started: no edited file
 ### Chapter 2 - CSS Styling
    1. app\layout.tsx
    1. app\page.tsx
-   1. app\ui\home.module.css
-   1. app\page.tsx
+   1. (test) app\ui\home.module.css
+   1. (test) app\page.tsx
    
+
+### Chapter 3 - Optimizing Fonts and Images
+   #### Add Fonts
+   1. app\ui\fonts.ts
+   1. app\layout.tsx
+   1. (try) app\ui\fonts.ts
+   1. (try) app\page.tsx
+   #### Add Image
+   1. app\page.tsx
+   1. (try) app\page.tsx
+
