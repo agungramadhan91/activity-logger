@@ -62,4 +62,8 @@ Getting started: no edited file
    #### Practice: Fetch data for the <Card> components
    1. app\dashboard\page.tsx
 
+### Chapter 8 - Static & Dynamic Rendering
+   1. app\lib\data.ts
 
+### Chapter 9 - Streaming
+   1.
