@@ -81,3 +81,15 @@ Getting started: no edited file
    #### Grouping components
    1. app\dashboard\(overview)\page.tsx
    1. app\ui\dashboard\cards.tsx
+
+### Chapter 10 - Partial Prerending (opt)
+
+### Chapter 11 - Adding Search and Pagination
+   1. app\dashboard\invoices\page.tsx
+   1. app\ui\search.tsx
+   #### Deboucing
+   1. app\dashboard\invoices\page.tsx
+   #### Pagination
+   1. app\ui\invoices\pagination.tsx
+   1. app\dashboard\invoices\page.tsx
+   1. app\ui\search.tsx
