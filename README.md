@@ -66,4 +66,18 @@ Getting started: no edited file
    1. app\lib\data.ts
 
 ### Chapter 9 - Streaming
-   1.
+   #### Streaming a whole page with loading.tsx
+   1. app\dashboard\loading.tsx
+   #### Adding skeleton
+   1. app\dashboard\loading.tsx
+   #### Fixing the loading skeleton bug with route groups
+   1. app\dashboard\(overview)\loading.tsx
+   1. app\dashboard\(overview)\page.tsx
+   #### Streaming a component
+   1. app\dashboard\(overview)\page.tsx
+   1. app\ui\dashboard\revenue-chart.tsx
+   1. (try) app\dashboard\(overview)\page.tsx
+   1. (try) app\ui\dashboard\latest-invoices.tsx
+   #### Grouping components
+   1. app\dashboard\(overview)\page.tsx
+   1. app\ui\dashboard\cards.tsx
